@@ -642,7 +642,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uEX40Qj-ZMgodDzGitMz-142" value="2025年：基础技术突破与原型验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2548" width="5546" height="571" as="geometry" />
+          <mxGeometry x="-10" y="2530" width="5546" height="571" as="geometry" />
         </mxCell>
         <mxCell id="uEX40Qj-ZMgodDzGitMz-143" value="Q1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uEX40Qj-ZMgodDzGitMz-142">
           <mxGeometry x="423" y="46" width="79" height="49" as="geometry" />
