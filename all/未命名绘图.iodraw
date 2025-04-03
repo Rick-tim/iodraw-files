@@ -10,7 +10,7 @@
         <mxCell id="uEX40Qj-ZMgodDzGitMz-2" value="2029" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uEX40Qj-ZMgodDzGitMz-1">
           <mxGeometry x="550" y="46" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uEX40Qj-ZMgodDzGitMz-3" value="小样本迁移学习框架优化（适应时间≤3小时）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="uEX40Qj-ZMgodDzGitMz-1">
+        <mxCell id="uEX40Qj-ZMgodDzGitMz-3" value="小样本迁移学习框架优化（适应时间≤3小时）" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uEX40Qj-ZMgodDzGitMz-1">
           <mxGeometry x="467" y="169" width="258" height="258" as="geometry" />
         </mxCell>
         <mxCell id="uEX40Qj-ZMgodDzGitMz-4" value="多传感器融合鲁棒性提升（故障率&amp;lt;0.1%）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="uEX40Qj-ZMgodDzGitMz-1">
