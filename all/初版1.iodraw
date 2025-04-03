@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="4504" dy="2238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -405,7 +405,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s-v4wcdFyohPRUy5OAis-93" value="Q1 (2026)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="430" y="4116" width="1203" height="581" as="geometry" />
+          <mxGeometry x="410" y="4250" width="1203" height="581" as="geometry" />
         </mxCell>
         <mxCell id="s-v4wcdFyohPRUy5OAis-94" value="仿生关节原型开发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="s-v4wcdFyohPRUy5OAis-93">
           <mxGeometry x="528" y="46" width="188" height="49" as="geometry" />
