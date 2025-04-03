@@ -1,0 +1,789 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1126" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="180" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="350" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="340" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="18fc_0TkWPe-1DRQsmmd-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-3" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="270" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-6" value="2029-2030年：系统优化与规模化量产" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="191" y="570" width="1493" height="762" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-7" value="2029" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="46" y="238" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-8" value="小样本迁移学习框架优化&#xa;多传感器融合鲁棒性提升" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="215" y="145" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-9" value="适应时间≤3小时&#xa;故障率&amp;lt;0.1%" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="512" y="46" width="265" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-10" value="构建行业知识图谱增强场景泛化能力12" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="853" y="49" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-11" value="完成A轮融资（估值10亿）&#xa;首批医疗机器人交付三甲医院" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="1187" y="124" width="276" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-12" value="2030" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="46" y="569" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-13" value="关键部件成本降低&#xa;通过CE/FCC全项认证" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="214" y="478" width="223" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-14" value="40%（谐波减速器、力矩传感器）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="518" y="384" width="253" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-15" value="采用自动化生产线与3D打印工艺优化8" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="852" y="381" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-16" value="量产规模突破1万台&#xa;登陆科创板或纳斯达克" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-6">
+          <mxGeometry x="1193" y="461" width="265" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-7" target="18fc_0TkWPe-1DRQsmmd-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="177" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-8" target="18fc_0TkWPe-1DRQsmmd-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-9" target="18fc_0TkWPe-1DRQsmmd-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-10" target="18fc_0TkWPe-1DRQsmmd-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.98;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-7" target="18fc_0TkWPe-1DRQsmmd-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="177" y="346" />
+              <mxPoint x="1150" y="346" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-12" target="18fc_0TkWPe-1DRQsmmd-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="177" y="511" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-13" target="18fc_0TkWPe-1DRQsmmd-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-14" target="18fc_0TkWPe-1DRQsmmd-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-15" target="18fc_0TkWPe-1DRQsmmd-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="511" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-6" source="18fc_0TkWPe-1DRQsmmd-12" target="18fc_0TkWPe-1DRQsmmd-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="177" y="676" />
+              <mxPoint x="1150" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-27" value="2028年：智能决策系统攻坚与复杂环境适应" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="176" y="1382" width="1523" height="1135" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-28" value="Q1-Q2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="46" y="244" width="104" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-29" value="Transformer任务引擎V1.0" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="225" y="157" width="213" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-30" value="支持10层任务拆解与资源分配&#xa;小样本迁移学习框架（适应时间≤5小时）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="513" y="43" width="277" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-31" value="结合Data Ocean数据集训练通用基座模型12" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="866" y="45" width="272" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-32" value="申请任务规划算法专利&#xa;获国际机器人峰会最佳技术奖" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="1225" y="139" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-33" value="Q3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="58" y="592" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-34" value="多光谱自适应曝光系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="236" y="505" width="190" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-35" value="照度范围0.1-10^5 lux&#xa;动态HDR图像融合（帧率≥30fps）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="513" y="390" width="277" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-36" value="采用事件相机优化低光照环境感知9" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="873" y="400" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-37" value="通过CE/FCC认证部分测试&#xa;与安防企业合作开发巡检机器人" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="1214" y="476" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-38" value="Q4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="58" y="939" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-39" value="多传感器时延校准" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="252" y="852" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-40" value="视觉-力觉-IMU同步误差&amp;lt;5ms&#xa;全身30自由度实时控制（延迟&amp;lt;20ms）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="513" y="738" width="278" height="278" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-41" value="基于时间戳插值算法消除时序偏差7" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="873" y="748" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-42" value="发布开源同步校准工具包&#xa;获国家级科技创新团队称号" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-27">
+          <mxGeometry x="1224" y="834" width="259" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-28" target="18fc_0TkWPe-1DRQsmmd-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-29" target="18fc_0TkWPe-1DRQsmmd-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-30" target="18fc_0TkWPe-1DRQsmmd-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-31" target="18fc_0TkWPe-1DRQsmmd-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1176" y="182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0;entryY=0.75;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-28" target="18fc_0TkWPe-1DRQsmmd-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="355" />
+              <mxPoint x="1176" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=-0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-33" target="18fc_0TkWPe-1DRQsmmd-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-34" target="18fc_0TkWPe-1DRQsmmd-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-35" target="18fc_0TkWPe-1DRQsmmd-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.25;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-36" target="18fc_0TkWPe-1DRQsmmd-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1176" y="529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.98;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-33" target="18fc_0TkWPe-1DRQsmmd-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="703" />
+              <mxPoint x="1176" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-38" target="18fc_0TkWPe-1DRQsmmd-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="877" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-39" target="18fc_0TkWPe-1DRQsmmd-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-40" target="18fc_0TkWPe-1DRQsmmd-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-41" target="18fc_0TkWPe-1DRQsmmd-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1176" y="877" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0;entryY=0.75;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-27" source="18fc_0TkWPe-1DRQsmmd-38" target="18fc_0TkWPe-1DRQsmmd-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="1051" />
+              <mxPoint x="1176" y="1051" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-58" value="2027年：灵巧手深度开发与热补偿优化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="178" y="2567" width="1519" height="1119" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-59" value="Q1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="58" y="242" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-60" value="柔性物体抓取模块迭代" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="233" y="156" width="190" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-61" value="硅胶管/布料形变建模（误差&amp;lt;2mm）&#xa;滑移检测动态阈值调整" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="507" y="43" width="274" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-62" value="结合生成对抗网络（GAN）模拟复杂抓取场景8" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="858" y="52" width="257" height="257" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-63" value="申请电子皮肤技术专利&#xa;与医疗器械企业合作开发护理机器人" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="1202" y="129" width="276" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-64" value="Q2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="58" y="588" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-65" value="力矩传感器温漂补偿算法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="225" y="501" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-66" value="温度范围-20℃~60℃，温漂降低70%&#xa;嵌入式实时校准模块开发" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="506" y="388" width="276" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-67" value="采用贝叶斯优化动态调整补偿参数7" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="857" y="396" width="259" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-68" value="发表ASME Journal论文（热管理方向）&#xa;获人工智能创新大赛冠军（算法赛道）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="1191" y="463" width="299" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-69" value="Q3-Q4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="46" y="925" width="105" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-70" value="手眼协同高精度装配" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="241" y="837" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-71" value="视觉引导误差&amp;lt;0.5mm&#xa;多任务队列优先级调度" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="517" y="735" width="254" height="254" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-72" value="基于VLM多模态大模型优化指令映射12" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="859" y="734" width="255" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-73" value="建立量产工艺标准（关键部件成本降20%）&#xa;完成Pre-A轮融资（估值3亿）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-58">
+          <mxGeometry x="1202" y="811" width="276" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-59" target="18fc_0TkWPe-1DRQsmmd-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="188" y="181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-60" target="18fc_0TkWPe-1DRQsmmd-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-61" target="18fc_0TkWPe-1DRQsmmd-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-62" target="18fc_0TkWPe-1DRQsmmd-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1153" y="181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0;entryY=0.73;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-59" target="18fc_0TkWPe-1DRQsmmd-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="188" y="353" />
+              <mxPoint x="1153" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-64" target="18fc_0TkWPe-1DRQsmmd-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="188" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-65" target="18fc_0TkWPe-1DRQsmmd-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-66" target="18fc_0TkWPe-1DRQsmmd-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-67" target="18fc_0TkWPe-1DRQsmmd-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1153" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.98;entryX=0;entryY=0.73;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-64" target="18fc_0TkWPe-1DRQsmmd-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="188" y="699" />
+              <mxPoint x="1153" y="699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-69" target="18fc_0TkWPe-1DRQsmmd-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="188" y="862" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-70" target="18fc_0TkWPe-1DRQsmmd-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-71" target="18fc_0TkWPe-1DRQsmmd-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-72" target="18fc_0TkWPe-1DRQsmmd-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1153" y="862" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0;entryY=0.72;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-58" source="18fc_0TkWPe-1DRQsmmd-69" target="18fc_0TkWPe-1DRQsmmd-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="188" y="1030" />
+              <mxPoint x="1153" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-89" value="2026年：上半身系统集成与场景验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="179" y="3736" width="1518" height="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-90" value="Q1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="58" y="245" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-91" value="7自由度机械臂工程样机" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="225" y="159" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-92" value="负载能力≥5kg，重复定位精度±0.1mm&#xa;碰撞规避算法嵌入（响应时间&amp;lt;10ms）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="502" y="45" width="277" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-93" value="采用MAIC系统实现视觉语义感知与实时轨迹规划12" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="858" y="52" width="261" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-94" value="申报工信部“智能制造示范项目”&#xa;与物流企业合作试点（如仓库分拣）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="1200" y="128" width="283" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-95" value="Q2-Q3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="46" y="597" width="104" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-96" value="视觉-触觉融合抓取实验" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="226" y="508" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-97" value="构建100种物体数据库（含柔性/刚性）&#xa;动态力位混合控制（抓取成功率≥90%）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="499" y="391" width="283" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-98" value="融合Transformer架构优化任务拆解优先级5" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="857" y="400" width="265" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-99" value="参加世界机器人大会（获工业创新奖）&#xa;申请抓取路径规划软著" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="1204" y="483" width="277" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-100" value="Q4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="58" y="945" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-101" value="户外动态步态首次测试" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="229" y="858" width="191" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-102" value="非结构化环境适应（碎石路、5°斜坡）&#xa;全身协调运动框架V1.0（延迟&amp;lt;30ms）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="502" y="744" width="277" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-103" value="基于多光谱融合算法提升环境感知鲁棒性9" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="860" y="753" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-104" value="通过ISO 13482服务机器人安全认证预审&#xa;获得政府产业基金支持" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-89">
+          <mxGeometry x="1196" y="823" width="292" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-90" target="18fc_0TkWPe-1DRQsmmd-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-91" target="18fc_0TkWPe-1DRQsmmd-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-92" target="18fc_0TkWPe-1DRQsmmd-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-93" target="18fc_0TkWPe-1DRQsmmd-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1159" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-90" target="18fc_0TkWPe-1DRQsmmd-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="356" />
+              <mxPoint x="1159" y="356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=-0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-95" target="18fc_0TkWPe-1DRQsmmd-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-96" target="18fc_0TkWPe-1DRQsmmd-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-97" target="18fc_0TkWPe-1DRQsmmd-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-98" target="18fc_0TkWPe-1DRQsmmd-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1159" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-114" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0.98;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-95" target="18fc_0TkWPe-1DRQsmmd-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="709" />
+              <mxPoint x="1159" y="709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-115" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-100" target="18fc_0TkWPe-1DRQsmmd-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="882" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-116" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-101" target="18fc_0TkWPe-1DRQsmmd-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-102" target="18fc_0TkWPe-1DRQsmmd-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-103" target="18fc_0TkWPe-1DRQsmmd-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1159" y="882" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-119" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-89" source="18fc_0TkWPe-1DRQsmmd-100" target="18fc_0TkWPe-1DRQsmmd-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="1056" />
+              <mxPoint x="1159" y="1056" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-120" value="2025年：基础技术突破与原型验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="4934" width="1556" height="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-121" value="Q1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="46" y="258" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-122" value="仿生关节原型开发" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="218" y="166" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-123" value="谐波减速器与力矩传感器一体化设计&#xa;关节驱动模块热力学仿真优化" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="481" y="53" width="276" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-124" value="采用轻量化材料（如碳纤维）与MoE架构优化控制芯片，确保关节响应延迟&amp;lt;5ms12" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="844" y="43" width="295" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-125" value="申请仿生关节结构专利（发明专利1项）&#xa;与精密制造企业签订联合研发协议" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="1229" y="141" width="283" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-126" value="Q2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="46" y="626" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-127" value="视觉SLAM基础框架搭建" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="200" y="534" width="195" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-128" value="ROS环境下的实时建图（精度&amp;lt;10cm）&#xa;多传感器（IMU+RGB-D相机）时空同步校准" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="470" y="408" width="299" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-129" value="基于OpenX-Embodiment开放数据集训练模型，优化动态环境适应性11" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="853" y="420" width="277" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-130" value="提交科技部“智能机器人”重点专项申请（目标资金200万）&#xa;参加全国大学生机器人竞赛（展示基础运动模块）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="1214" y="494" width="312" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-131" value="Q3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="46" y="991" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-132" value="触觉传感器阵列试制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="210" y="900" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-133" value="分布式压力传感器布局（密度≥20/cm²）&#xa;滑移检测算法开发（力反馈延迟&amp;lt;50ms）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="472" y="778" width="294" height="294" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-134" value="采用电子皮肤技术提升触觉灵敏度，结合强化学习动态调整抓取力911" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="854" y="787" width="276" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-135" value="发表IEEE Transactions论文（多模态感知方向）&#xa;启动校企合作（如与西安交大共建实验室12）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="1215" y="860" width="311" height="311" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-136" value="Q4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="46" y="1348" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-137" value="双足步态控制仿真验证" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="202" y="1259" width="190" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-138" value="基于MuJoCo的强化学习模型训练&#xa;斜坡（≤5°）与平整地面步态测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="477" y="1142" width="284" height="284" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-139" value="利用Sim2Real技术迁移仿真结果，优化动态平衡策略79" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="862" y="1154" width="259" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-140" value="完成首轮天使融资（估值5000万）&#xa;获省级创新创业大赛奖项" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="18fc_0TkWPe-1DRQsmmd-120">
+          <mxGeometry x="1232" y="1234" width="277" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-121" target="18fc_0TkWPe-1DRQsmmd-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-122" target="18fc_0TkWPe-1DRQsmmd-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-123" target="18fc_0TkWPe-1DRQsmmd-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-144" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-124" target="18fc_0TkWPe-1DRQsmmd-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1177" y="191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0;entryY=0.73;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-121" target="18fc_0TkWPe-1DRQsmmd-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="373" />
+              <mxPoint x="1177" y="373" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-126" target="18fc_0TkWPe-1DRQsmmd-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="558" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-147" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-127" target="18fc_0TkWPe-1DRQsmmd-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-128" target="18fc_0TkWPe-1DRQsmmd-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-129" target="18fc_0TkWPe-1DRQsmmd-130">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1177" y="558" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-126" target="18fc_0TkWPe-1DRQsmmd-130">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="743" />
+              <mxPoint x="1177" y="743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-131" target="18fc_0TkWPe-1DRQsmmd-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-152" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-132" target="18fc_0TkWPe-1DRQsmmd-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-133" target="18fc_0TkWPe-1DRQsmmd-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-134" target="18fc_0TkWPe-1DRQsmmd-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1177" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-131" target="18fc_0TkWPe-1DRQsmmd-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="1107" />
+              <mxPoint x="1177" y="1107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-156" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-136" target="18fc_0TkWPe-1DRQsmmd-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="1284" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-137" target="18fc_0TkWPe-1DRQsmmd-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-158" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-138" target="18fc_0TkWPe-1DRQsmmd-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-139" target="18fc_0TkWPe-1DRQsmmd-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1177" y="1284" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18fc_0TkWPe-1DRQsmmd-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0;entryY=0.73;rounded=0;" edge="1" parent="18fc_0TkWPe-1DRQsmmd-120" source="18fc_0TkWPe-1DRQsmmd-136" target="18fc_0TkWPe-1DRQsmmd-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="1461" />
+              <mxPoint x="1177" y="1461" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
